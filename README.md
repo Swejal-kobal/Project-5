@@ -13,6 +13,7 @@ CHIP Memory {
     Mux4Way16(a=ramout, b=ramout, c=scrout, d=kbout, sel=address[13..14], out=out);
 
 }
+
 ![image](https://github.com/user-attachments/assets/51e38915-8035-4629-aee7-50df60ac9ed9)
 
 
